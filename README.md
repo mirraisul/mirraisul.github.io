@@ -4,7 +4,8 @@ My portfolio is hosted at https://mirraisul.github.io/
 The website is built involving
 
 ```
-html
+html, CSS, SCSS, JavaScript
 Github Pages
 Github Actions
 ```
+
