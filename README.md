@@ -6,6 +6,5 @@ The website is built involving
 ```
 html, CSS, SCSS, JavaScript
 Github Pages
-Github Actions
 ```
 
